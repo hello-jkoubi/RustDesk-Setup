@@ -62,3 +62,7 @@ Disconnect the HDMI cable, connect the dummy HDMI dongle to the robot, and open 
         <img src="doc/step5.png" alt="base" width="500"/>
       </div>
 
+
+## Acknowledgments
+
+This setup was inspired by prior work from [Bharadwaj Chukkalad](https://github.com/hello-robot/GPU-acceleration-with-jetson-orin/blob/main/docs/Setup.md). Thanks for laying the groundwork.
