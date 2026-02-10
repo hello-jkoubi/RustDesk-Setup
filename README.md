@@ -20,7 +20,7 @@ For installation, you must first connect the robot to your host computer using a
     sudo apt install ./rustdesk-1.4.4-x86_64.deb
     ```
 2. Make sure an HDMI cable is connected between your host computer and the robot.
-Open `RustDesk` on the robot, either from the applications menu or by running:
+**Open `RustDesk` on the robot**, either from the applications menu or by running:
 
     ```bash
     rustdesk
@@ -46,14 +46,14 @@ Open `RustDesk` on the robot, either from the applications menu or by running:
         <img src="doc/step3.png" alt="base" width="500"/>
       </div>
 
-   3. Click `Set permanent password`:
+   3. Click `Set permanent password` and set your password:
 
       <div align="center">
         <img src="doc/step4.png" alt="base" width="500"/>
       </div>
 
 5. Close `RustDesk` on the robot.
-Disconnect the HDMI cable, connect the dummy HDMI dongle, and open `RustDesk` on your host machine.
+Disconnect the HDMI cable, connect the dummy HDMI dongle to the robot, and open `RustDesk` on your host machine.
     Enter the robot’s `ID` and permanent password.
 
     That’s it—you now have a remote connection to the robot using `RustDesk`:
